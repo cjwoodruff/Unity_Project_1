@@ -1,4 +1,9 @@
-﻿using System.Collections;
+/*
+ * This is just a game that sets a range and tries to guess what number a user is thinking of.
+ * The method is to pplace the guess at the middle of the range and continue to change the range
+ * based on the guess value and user feedback.
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
